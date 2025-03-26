@@ -13,7 +13,7 @@ Description:
 Requirements:
 
     This program requires java 21 or later to run. The only import is the 
-    Scanner package and does not use that crazy of code, so some earlier 
+    Scanner package and the code doesn't get too wild, so some earlier 
     versions might work. There are no guarentees and I am not going to 
     test it. It utilizes version 5.2.32 of GNU Bash for scripting. The 
     operating system this program was tested on was Ubuntu 24.10. This 
