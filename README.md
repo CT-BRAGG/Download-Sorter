@@ -43,7 +43,7 @@ Potential Features
 
     There are a few things that will change for the better in future versions. 
     One of the versions will hopefully be platform independent and run on both
-    windows and linux as a single jar file. It, hopefully, would have a gui 
-    created using the AWT library which should help with portability. The program 
-    will also be written entirely in java. The process for configuring the file
-    paths needs a little work.   
+    windows and linux as a single jar file. MacOS will purposefully be excluded.
+    It, hopefully, would have a gui created using the AWT library which should 
+    help with portability. The program will also be written entirely in java. The 
+    process for configuring the file paths needs a little work.   
