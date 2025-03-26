@@ -2,12 +2,14 @@
 DOWNLOAD SORTER
 
 Description:
+
     This program sorts the contents of the download folder of a linux 
     system. This is really just a rough draft of a file sorting program, 
     but it works. Currently there is a bit more work to get it working 
     than its worth; I would wait a few versions to install it.
 
 Requirements:
+
     This program requires java 21 or later to run. The only import is the 
     Scanner package and does not use that crazy of code, so some earlier 
     versions might work. There are no guarentees and I am not going to 
@@ -17,6 +19,7 @@ Requirements:
     heavy modifcations.
 
 Installation:
+
     There is a decent amount of steps in the installation so I am going to
     summarize quite a bit. Once you have the repo downloaded. Go into the 
     src/ folder and change the paths to match your system. They are not
@@ -31,6 +34,7 @@ Installation:
     the end.    
 
 Potential Features
+
     There are a few things that will change for the better in future versions. 
     One of the versions will hopefully be platform independent and run on both
     windows and linux as a single jar file. It, hopefully, would have a gui 
