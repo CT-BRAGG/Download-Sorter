@@ -7,7 +7,9 @@ Description:
     system. This is really just a rough draft of a file sorting program, 
     but it works. Currently there is a bit more work to get it working 
     than its worth; I would wait a few versions to install it.
+        
 
+    
 Requirements:
 
     This program requires java 21 or later to run. The only import is the 
@@ -17,6 +19,8 @@ Requirements:
     operating system this program was tested on was Ubuntu 24.10. This 
     program will definitely not work on any vanilla Windows OS without 
     heavy modifcations.
+
+
 
 Installation:
 
@@ -32,6 +36,8 @@ Installation:
     file in the home directory of the current user; if there is no .profile find 
     something that runs everytime your computer turns on and just append it to 
     the end.    
+
+
 
 Potential Features
 
