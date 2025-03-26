@@ -29,13 +29,13 @@ Installation:
     src/ folder and change the paths to match your system. They are not
     properly labeled and hard to find unless you read through all the source
     code to get an idea of whats going on. I would honestly just give all 
-    the files to an AI. Once the all the directory paths are correct, recompile
-    the source code. At this point, the program is ready to run. It can be 
-    executed manually with the ./sort_download.sh file in a terminal, or by 
-    adding the command, 'nohup "path to sh file" > /dev/nul &', to the .profile 
-    file in the home directory of the current user; if there is no .profile find 
-    something that runs everytime your computer turns on and just append it to 
-    the end.    
+    the files to an AI. Once the all the directory paths are correct, 
+    recompile the source code. At this point, the program is ready to run. 
+    It can be executed manually with the ./sort_download.sh file in a terminal, 
+    or by adding the command, 'nohup "path to sh file" > /dev/nul &', to the 
+    '.profile' file in the home directory of the current user; if there is no 
+    '.profile' file, find something that runs everytime your computer turns on 
+    and just append it to the end.    
 
 
 
@@ -46,4 +46,5 @@ Potential Features
     windows and linux as a single jar file. MacOS will purposefully be excluded.
     It, hopefully, would have a gui created using the AWT library which should 
     help with portability. The program will also be written entirely in java. The 
-    process for configuring the file paths needs a little work.   
+    process for configuring the file paths nad grammar in the readme file needs 
+    a little work. 
