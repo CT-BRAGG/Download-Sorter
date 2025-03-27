@@ -2,7 +2,11 @@
 
 
 
-
+version: v1    
+Requiremens:      
+- java: 21 or later      
+- environment: ubuntu 24.10        
+- gnu bash: 5.2.32  
 
 
 
@@ -11,11 +15,7 @@
 This program sorts the contents of the download folder of a linux system. This is really just a rough draft of a file sorting program, but it works. Currently there is a bit more work to get it working than its worth; I would wait a few versions to install it.
 
 
-version: v1    
-Requiremens:      
-- java: 21 or later      
-- environment: ubuntu 24.10        
-- gnu bash: 5.2.32     
+   
 
 
 
