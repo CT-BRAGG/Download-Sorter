@@ -6,9 +6,21 @@ Requiremens:
 - environment: ubuntu 24.10        
 - gnu bash: 5.2.32     
 
+
+
+
+
+
+
+
 ## Description
 This program sorts the contents of the download folder of a linux system. This is really just a rough draft of a file sorting program, but it works. Currently there is a bit more work to get it working than its worth; I would wait a few versions to install it.
-        
+
+
+
+
+
+
 
     
 ## Requirements
@@ -16,8 +28,21 @@ This program requires java 21 or later to run. The only import is the Scanner pa
 
 
 
+
+
+
+
+
+
 ## Installation
 There is a decent amount of steps in the installation so I am going to summarize quite a bit. Once you have the repo downloaded. Go into the src/ folder and change the paths to match your system. They are not properly labeled and hard to find unless you read through all the source code to get an idea of whats going on. I would honestly just give all the files to an AI. Once the all the directory paths are correct, recompile the source code. At this point, the program is ready to run. It can be executed manually with the ./sort_download.sh file in a terminal, or by adding the command, 'nohup "path to sh file" > /dev/nul &', to the '.profile' file in the home directory of the current user; if there is no '.profile' file, find something that runs everytime your computer turns on and just append it to the end.    
+
+
+
+
+
+
+
 
 
 
