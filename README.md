@@ -7,7 +7,6 @@ Requiremens:
 - gnu bash: 5.2.32     
 
 ## Description
----
 This program sorts the contents of the download folder of a linux system. This is really just a rough draft of a file sorting program, but it works. Currently there is a bit more work to get it working than its worth; I would wait a few versions to install it.
         
 
