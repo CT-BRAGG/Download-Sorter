@@ -1,6 +1,10 @@
 DOWNLOAD SORTER
 
 version: v1
+Requiremens:
+    java: 21 or later
+    environment: ubuntu 24.10
+    gnu bash: 5.2.32
 
 Description
 ---
